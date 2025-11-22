@@ -47,5 +47,8 @@ XOR is **reversible**, meaning the same operation can encrypt and decrypt:
 
 # Preview
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/168c2969-428e-4417-a738-bfe8cefb5aad" />
+
+
 <img width="567" height="510" alt="image" src="https://github.com/user-attachments/assets/32dbb53a-a565-4896-a36a-355e28281620" />
 
